@@ -1,7 +1,7 @@
 {
     "name": "Dedsafio-Client",
     "preductname": "Dedsafio Client",
-    "version": "2.0.4",
+    "version": "2.1.0",
     "description": "Launcher oficial de Dedsafio  Studio",
     "main": "src/app.js",
     "author": {
