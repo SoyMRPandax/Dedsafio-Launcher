@@ -1,7 +1,7 @@
 {
-    "name": "Dedsafio-Client",
-    "preductname": "Dedsafio Client",
-    "version": "2.4.0",
+    "name": "BackGuards-Launcher",
+    "preductname": "BackGuards Launcher",
+    "version": "2.0.0",
     "description": "Launcher oficial de BackGuards Studio",
     "main": "src/app.js",
     "author": {
