@@ -1,8 +1,8 @@
 {
     "name": "Dedsafio-Client",
     "preductname": "Dedsafio Client",
-    "version": "2.1.0",
-    "description": "Launcher oficial de Dedsafio  Studio",
+    "version": "2.3.0",
+    "description": "Launcher oficial de BackGuards Studio",
     "main": "src/app.js",
     "author": {
         "name": "SoyNicoMx",
@@ -22,7 +22,6 @@
         "ignore": "**/test"
     },
     "dependencies": {
-        "discord-rpc": "^4.0.1",
         "electron-updater": "^6.1.8",
         "minecraft-java-core": "^3.10.4",
         "node-bdd": "^2.0.4",
