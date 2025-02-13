@@ -1,13 +1,13 @@
 {
     "name": "Dedsafio-Client",
     "preductname": "Dedsafio Client",
-    "version": "2.0.1",
-    "description": "Launcher oficial de Dedsafio Studio",
+    "version": "2.0.2",
+    "description": "Launcher oficial de Dedsafio  Studio",
     "main": "src/app.js",
     "author": {
-        "name": "SoyPandax",
-        "email": "LightZone@outlook.com",
-        "url": "https://discord.gg/gBDdH9Jg"
+        "name": "SoyNicoMx",
+        "email": "backguards@outlook.com",
+        "url": "https://discord.gg/backguards"
     },
     "url": "http://na21.holy.gg:19143/Dedsafio",
     "scripts": {
